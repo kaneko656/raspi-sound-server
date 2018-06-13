@@ -8,7 +8,7 @@
 
 - git clone or DL
 - `npm install`
-- config.jsonにVoiceText Web APIのkeyを入れる
+- config.jsonにVoiceText Web APIのkeyを入れる
   - https://cloud.voicetext.jp/webapi
 
 ### 使い方
