@@ -1,0 +1,29 @@
+{
+  "name": "raspi-sound-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaneko656/raspi-sound-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaneko656/raspi-sound-server/issues"
+  },
+  "homepage": "https://github.com/kaneko656/raspi-sound-server#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-aplay": "^1.0.3",
+    "node-schedule": "^1.3.0",
+    "play-sound": "^1.1.2",
+    "q": "^1.5.1",
+    "simplayer": "0.0.8",
+    "voicetext": "0.0.7"
+  }
+}
