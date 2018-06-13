@@ -1,7 +1,7 @@
 
 # Raspi-Sound-Server
 
-テキストを投げると，音声合成で喋ります．RaspberryPI用に作成したが，MacやWindowsをサーバにしての利用も可能です．
+テキストを投げると，音声合成で喋ります．RaspberryPI用に作成しましたが，MacやWindowsをサーバにしての利用も可能です．
 
 
 ### インストール
